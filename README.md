@@ -9,8 +9,8 @@
 | Name | Email | Role & Module Ownership | Contribution |
 | :--- | :--- | :--- | :---: |
 | **MD Sabbir Hushen Riyad** *(ID: 0112310126)* | `sriyadh2002@gmail.com` | **Team Lead** — Core App Architecture, FastAPI & Gemini Vision Engine, API Client Service, Home Dashboard & System Integration | **40%** |
-| **Imthiyaz Ahmed** | `imthiyazahmed1425@gmail.com` | **Digital Wardrobe Module** — Wardrobe Catalog Grid, AI Smart Add-Item Flow, Garment Details, Search & Category Filtering | **20%** |
-| **Erfan Ali** | `erfanali45452@gmail.com` | **AI Outfit Synthesis Module** — Context-Aware Outfit Generator, Look Details View, Reusable Cards & UI Components | **20%** |
+| **Imthiyaz Ahmed** *(ID: 0112310125)* | `imthiyazahmed1425@gmail.com` | **Digital Wardrobe Module** — Wardrobe Catalog Grid, AI Smart Add-Item Flow, Garment Details, Search & Category Filtering | **20%** |
+| **Erfan Ali** *(ID: 0112310124)*| `erfanali45452@gmail.com` | **AI Outfit Synthesis Module** — Context-Aware Outfit Generator, Look Details View, Reusable Cards & UI Components | **20%** |
 | **Sefaul Islam** | `sefaulislam.off@gmail.com` | **Conversational AI Stylist & User Module** — "Aura" Fashion Concierge Chat, Authentication Screens, Profile & Preferences | **20%** |
 
 ---
