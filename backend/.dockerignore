@@ -1,0 +1,33 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Secrets & Local environments
+.env
+.env.*
+!.env.example
+
+# IDE and Editor configs
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+
+# Database & Schema migrations
+schema.sql
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
